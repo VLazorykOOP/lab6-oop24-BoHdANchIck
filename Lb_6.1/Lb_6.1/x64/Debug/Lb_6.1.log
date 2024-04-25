@@ -1,0 +1,14 @@
+﻿  Lb_6.1.cpp
+C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(24,22): warning C4584: 'D2': base-class 'Base' is already a base-class of 'D1'
+  C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(3,7):
+  see declaration of 'Base'
+  C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(12,7):
+  see declaration of 'D1'
+  
+C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(35,22): warning C4584: 'D3': base-class 'Base' is already a base-class of 'D1'
+  C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(3,7):
+  see declaration of 'Base'
+  C:\Users\danel\source\repos\Lb_6\Lb_6.1\Lb_6.1\Lb_6.1.cpp(12,7):
+  see declaration of 'D1'
+  
+  Lb_6.1.vcxproj -> C:\Users\danel\source\repos\Lb_6\Lb_6.1\x64\Debug\Lb_6.1.exe
